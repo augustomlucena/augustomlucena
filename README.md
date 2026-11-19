@@ -1,7 +1,15 @@
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00D4FF&height=200&section=header&text=José%20Augusto%20Monteiro&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Júnior%20%7C%20Cloud%20Computing%20%7C%20CI%2FCD&descAlignY=60&descSize=17" width="100%"/>
+
+</div>
+
 # Olá! Eu sou José Augusto Monteiro 👋
 
 ### DevOps Júnior | Cloud Computing | CI/CD | Automation | QA
+
+<img align="right" alt="DevOps Animation" width="300" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/demo.gif"/>
 
 Sou profissional de tecnologia, formado em Sistemas para Internet e atualmente cursando o 7º período de Sistemas de Informação.
 
@@ -96,9 +104,15 @@ Estou desenvolvendo projetos práticos para fortalecer meus conhecimentos em Dev
 ## 📫 Entre em contato
 
 - GitHub: [augustomlucena](https://github.com/augustomlucena)
-- LinkedIn: [José Augusto Monteiro](www.linkedin.com/in/josé-augusto-monteiro-6b6496268)
+- LinkedIn: [José Augusto Monteiro](https://www.linkedin.com/in/josé-augusto-monteiro-6b6496268)
 
 ---
 
+<div align="center">
+
 ⭐ Estou sempre aberto a aprender, compartilhar conhecimento e participar de novos desafios na área de tecnologia!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00D4FF&height=100&section=footer" width="100%"/>
+
+</div>
 
